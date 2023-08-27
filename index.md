@@ -24,7 +24,15 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
 ```
+#WELCOME TO ANOKHI'S WEBSITE
+##I want an emoji how do I get one
+###I GOT ONE🤩
+How many emojis can I make just by guessing the name ready go
+1. 🇮🇳 AYYY THE MOTHERLAND
+2. 😄 well that one is easy
+3. 🚂BOILER UP!!!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
