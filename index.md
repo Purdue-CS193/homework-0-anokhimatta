@@ -26,13 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
-# WELCOME TO ANOKHI'S WEBSITE
-## I want an emoji how do I get one
-### I GOT ONE🤩
-How many emojis can I make just by guessing the name ready go
-1. 🇮🇳 AYYY THE MOTHERLAND
-2. 😄 well that one is easy
-3. 🚂BOILER UP!!!
+# Anokhi Matta's First CS193 Homework
+Here are some of my favorite things about CS193!!😄
+- The instructors! You all seem super nice and I would love to learn more about CS through you🙂
+- The hall (the UC is actually super cool because I love natural light and windows)🪟🌞
+- I have a lot of friends in my class so it's super nice to have people that I can talk to in my class🤞
+- The fact that I can put emojis on here (🚂BOILER UP!!!)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
