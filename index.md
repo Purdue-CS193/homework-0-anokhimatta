@@ -26,9 +26,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 
 ```
-#WELCOME TO ANOKHI'S WEBSITE
-##I want an emoji how do I get one
-###I GOT ONE🤩
+# WELCOME TO ANOKHI'S WEBSITE
+## I want an emoji how do I get one
+### I GOT ONE🤩
 How many emojis can I make just by guessing the name ready go
 1. 🇮🇳 AYYY THE MOTHERLAND
 2. 😄 well that one is easy
